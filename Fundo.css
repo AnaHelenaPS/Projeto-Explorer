@@ -1,39 +1,38 @@
-
 /* quando eu uso virgula ( botton,h3) defino parametros para mais de uma tag,class e id*/
 /* saort-hand= inves de eu definir todas as caracteristicas eu defino um panding-full*/
 /*pseudo-class é quando você está se referindo a uma ação daquela teg - button: hover (hover - ação) e filter*/
+/*teste*/
 
-#pergunta{
-	font-style: normal;
-	font-weight: normal;
-	font-size: 1rem;
-	font-family: Montserrat;
-	color: #ffff
+#pergunta {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  font-family: Montserrat;
+  color: #ffff
 }
 
-#camporesposta{
-	font-style: normal;
-	font-weight:normal;
-	font-size: 1rem;
-	font-family: Montserrat;
-	color: #ffff
+#camporesposta {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  font-family: Montserrat;
+  color: #ffff
 }
 
 h1 {
-		font-style: normal;
-		font-weight: bold;
-		font-size: 2rem;
-		font-family: Montserrat;
-    color: #ffff
-	}
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: Montserrat;
+  color: #ffff
+}
 
-p{
+p {
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
   font-family: Montserrat;
   color: #ffff
-
 }
 
 
@@ -53,40 +52,37 @@ p{
 
 .box {
   background-color: transparent;
-	width: 0.5rem;
-  height:0.5rem;
+  width: 0.5rem;
+  height: 0.5rem;
   margin: 0.5rem;
 }
 
-.customization
-{
+.customization {
 
-color: #ffff
-display: block;
-width: 25%;
-border-radius: 9px;
-padding: 1rem;
-text-align: center;
-font-weight: normal;
-font-family: Montserrat;
-border:none;
+  color: #ffff display: block;
+  width: 25%;
+  border-radius: 9px;
+  padding: 1rem;
+  text-align: center;
+  font-weight: normal;
+  font-family: Montserrat;
+  border: none;
 
 }
 
 button:hover {
-	filter: brightness(1.2);
+  filter: brightness(1.2);
   cursor: pointer;
 }
 
 
 body {
-  background: rgb(118,84,191);
-  background: linear-gradient(130deg, rgba(118,84,191,1) 0%, rgba(190,105,176,1) 100%);
+  background: rgb(118, 84, 191);
+  background: linear-gradient(130deg, rgba(118, 84, 191, 1) 0%, rgba(190, 105, 176, 1) 100%);
 }
 
 footer {
   text-align: center;
   padding: 10rem;
-  background-color: transparent
-  color: transparent;
+  background-color: transparent color: transparent;
 }
